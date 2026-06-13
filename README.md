@@ -1,3 +1,4 @@
+
 # Placement Predictor AI Project
 
 ## Description
@@ -23,3 +24,5 @@ This project predicts whether a student will be placed or not using Machine Lear
 ## Output
 - 1 → Placed
 - 0 → Not Placed
+# ai_project
+
